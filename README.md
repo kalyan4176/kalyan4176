@@ -18,7 +18,7 @@
 Full Stack Developer with hands-on experience building scalable MERN applications, AI-powered software, and RESTful APIs across freelance work and industry internships. Also work as a Data Analyst — comfortable turning raw datasets into dashboards, predictive models, and business insight.
 
 - 📍 Vijayawada, India
-- 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics), SRM University-AP — CGPA **9.39/10**
+- 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics), SRM University-AP — CGPA **9.34/10**
 - 💼 Currently freelancing as a Full Stack Developer, building production e-commerce and analytics platforms
 - 🔭 Experience across fintech, healthtech, and AI-driven analytics
 - 🌱 Deepening my skills in machine learning, data engineering, and cloud (AWS)
