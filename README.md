@@ -133,7 +133,7 @@ Full Stack Developer with hands-on experience building scalable MERN application
 | # | Project | Live Demo | Repository |
 |---|---|---|---|
 | 1 | **DayKart** — Multi-vendor e-commerce, 8,000+ listings, Redis caching, Apriori-based recommendations | [Live ↗](https://daykart.vercel.app) | [GitHub ↗](https://github.com/kalyan4176/DayKart) |
-| 2 | **AURA** — Autonomous Unified Reasoning Analytics | — | [GitHub ↗](https://github.com/kalyan4176/AURA) |
+| 2 | **AURA** — Autonomous Unified Reasoning Analytics | [Live ↗]( https://aura-ten-sage-49.vercel.app) | [GitHub ↗](https://github.com/kalyan4176/AURA) |
 | 3 | **FinSight AI** — AI-powered expense & investment analytics with Gemini-driven ETL | [Live ↗](https://finsight-ai-expense-and-investment-tracker.vercel.app) | [GitHub ↗](https://github.com/kalyan4176/FinSight-AI) |
 | 4 | **Customer Churn Analytics** — Predictive churn model (89% accuracy) with Power BI KPI dashboards | — | [GitHub ↗](https://github.com/kalyan4176/Customer-churn-prediction-dashboard) |
 | 5 | **Mediease** — MERN telehealth platform with real-time chat & role-based access | [Live ↗](https://mediease-six.vercel.app) | [GitHub ↗](https://github.com/kalyan4176/Mediease) |
